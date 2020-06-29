@@ -1,0 +1,9 @@
+.form{
+    border: thin solid #ab2;
+  background-color: #fbfbfb;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  width: 150px;
+  justify-content: center;
+}
